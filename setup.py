@@ -5,7 +5,6 @@ setup(
     version='0.4.1',
     packages=['google_drive_downloader'],
     url='https://github.com/ewwink/google-drive-downloader',
-    download_url='https://github.com/ewwink/google-drive-downloader/archive/0.2.tar.gz',
     license='MIT',
     author='Davide Abati and Andrea Palazzi',
     author_email='ndrplz@gmail.com',
